@@ -1,5 +1,8 @@
 # Git Lab (not GitLab!)
 
+## Emma's overview of Lab
+A lab to learn about Git and how it works.
+
 ## Overview
 This lab will guide you through using Git and GitHub to manage a collaborative software project using GitHub Desktop and Visual Studio Code (VS Code). You will focus on making changes, working with branches, handling merge conflicts, and managing pull request approvals.
 
