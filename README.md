@@ -1,5 +1,15 @@
 # Git Lab (not GitLab!)
 
+<<<<<<< HEAD
+## Emma's overview of Lab
+A lab to learn about Git and how it works.
+=======
+
+## RIYA's overview of the lab
+    **LAB OVERVIEW**
+    In we will be navigating through github.
+>>>>>>> b062032c9e050099c6182d629acb877abdd0edc4
+
 ## Overview
 This lab will guide you through using Git and GitHub to manage a collaborative software project using GitHub Desktop and Visual Studio Code (VS Code). You will focus on making changes, working with branches, handling merge conflicts, and managing pull request approvals.
 
