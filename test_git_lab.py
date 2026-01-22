@@ -4,6 +4,8 @@ from git_lab import (
     celsius_to_fahrenheit,
     is_palindrome,
     calculate_triangle_area,
+    is_prime,
+    subtract_numbers
     is_prime, add_numbers
 )
 import math
@@ -55,6 +57,10 @@ class TestUtils(unittest.TestCase):
         self.assertFalse(is_prime(30))
         self.assertTrue(is_prime(31))
         self.assertFalse(is_prime(100))
+
+    def test_add_numbers(self):
+        self.assertEqual(subtract_numbers(3, 2), 1)
+        self.assertEqual(subtract_numbers(1, 1), 0)
 
     
 
